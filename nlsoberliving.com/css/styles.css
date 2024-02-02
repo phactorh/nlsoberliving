@@ -1,0 +1,10 @@
+.rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    max-width: 500px;
+
+  }
+  .card {
+    border: 2px solid #73AD21 !important;
+  }
